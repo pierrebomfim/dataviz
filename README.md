@@ -5,9 +5,9 @@ Data visualization is the graphical representation of information and data. By u
 
 ## Extract data from PDF files
 
-<img align="right" src="images/pdfplumber.jpeg" width="100">
+<img align="right" src="images/pdfplumber.jpeg" width="200">
 
-It is a python library to plumb a PDF for detailed information about each text character, rectangle, and line.
+*PDFPlumber* is a python library to plumb a PDF for detailed information about each text character, rectangle, and line.
 
 * [Medium article](https://medium.com/@pierrebomfim/an%C3%A1lise-explorat%C3%B3ria-de-dados-com-apenas-3-linhas-de-c%C3%B3digo-3f6ee1e218b2)
 * [Colab Notebook](https://colab.research.google.com/drive/1b3Ey26W3ZoXU6CfXS2r4GW8N4gjX91oA?usp=sharing)
@@ -15,7 +15,7 @@ It is a python library to plumb a PDF for detailed information about each text c
 
 ## First steps with Pandas
 
-<img align="right" src="images/pandas_logo.svg" width="100">
+<img align="right" src="images/pandas_logo.png" width="200">
 
 Here is a piece of code using Pandas to analyse ad plot some informations about gas price. 
 
