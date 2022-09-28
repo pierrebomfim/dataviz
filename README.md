@@ -3,11 +3,11 @@
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Additionally, it provides an excellent way for employees or business owners to present data to non-technical audiences without confusion. (source: tableau)
 
 
-## Extract data from PDF files
+## SweetViz
 
-<img align="right" src="images/pdfplumber.jpeg" width="200">
+<img align="right" src="images/sweetviz-logo.png" width="150">
 
-*PDFPlumber* is a python library to plumb a PDF for detailed information about each text character, rectangle, and line.
+DSweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
 
 * [Medium article](https://medium.com/@pierrebomfim/an%C3%A1lise-explorat%C3%B3ria-de-dados-com-apenas-3-linhas-de-c%C3%B3digo-3f6ee1e218b2)
 * [Colab Notebook](https://colab.research.google.com/drive/1b3Ey26W3ZoXU6CfXS2r4GW8N4gjX91oA?usp=sharing)
